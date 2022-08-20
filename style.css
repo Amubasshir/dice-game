@@ -53,14 +53,17 @@ main {
   text-transform: uppercase;
   letter-spacing: 1px;
   word-spacing: 2px;
-  font-weight: 300;
+  font-weight: 500;
   margin-bottom: 1rem;
 }
 
 .score {
   font-size: 8rem;
   font-weight: 300;
-  color: #172c47;
+  /* color: #364b65; */
+  color: #0f4e9b;
+  color: #49709c;
+
   margin-bottom: auto;
 }
 
@@ -160,7 +163,9 @@ main {
 }
 
 .player--winner {
-  background-color: #3d6493;
+  /* background-color: #3d6493;
+  background-color: #3d6493; */
+  background-color: #112844;
 }
 
 .player--winner .name {
